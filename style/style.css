@@ -8,14 +8,11 @@
 }
 
 body {
-/*background-image: url(../img/hexagons.svg);
+background-image: url(../img/hexagons.svg);
 //background-size: 20rem;
 background-color: #c1bdc7;
-*/
 
-  background: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='30' height='30'><circle cx='15' cy='15' r='10' /></svg>")  no-repeat;
-  height: 80px;
-  width: 50px;
+
 }
 
 /*
