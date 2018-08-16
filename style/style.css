@@ -13,6 +13,10 @@ background-image: url(../img/hexagons.svg);
 background-color: #c1bdc7;
 
 
+background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='26' height='26' viewBox='0 0 8 8'%3E %3Ccircle cx='1' cy='1' r='1' opacity='0.25' /%3E %3Ccircle cx='5' cy='5' r='1' opacity='0.25' /%3E %3C/svg%3E");
+/* SVG encoded with https://cdpn.io/rrOZQQ */
+
+
 }
 
 /*
