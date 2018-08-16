@@ -4,13 +4,13 @@
   outline: 0;
   border: 0;
   box-sizing: border-box;
-  font-family: "Open Sans", sans-serif;
+  font-family: 'Roboto', sans-serif;
 }
 
 body {
-/*background-image: url(../img/hexagons.svg);*/
+/*background-image: url(../img/hexagons.svg);
 //background-size: 20rem;
-background-color: #c1bdc7;
+background-color: #c1bdc7;*/
 
 
 background-image: url("data:image/svg+xml;charset=utf-8,%3Csvg xmlns='http://www.w3.org/2000/svg' width='26' height='26' viewBox='0 0 8 8'%3E %3Ccircle cx='1' cy='1' r='1' opacity='0.25' /%3E %3Ccircle cx='5' cy='5' r='1' opacity='0.25' /%3E %3C/svg%3E");
